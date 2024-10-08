@@ -1,0 +1,6 @@
+# ignore ALL files in ANY directory named screenshots, target
+temp/
+screenshots/
+target/
+src/test/resources/downloads/
+src/test/resources/uploads/
